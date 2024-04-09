@@ -1,0 +1,1 @@
+Assumption of dimensions of the mechanism that allow the system to have a crank (Link 2 makes full rotation) was made. Verification the satisfaction of the assumption for full cycle of the mechanism’s motion was done using Linkage .
